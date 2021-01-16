@@ -151,3 +151,4 @@
 * [tommi.space](https://tommi.space)
 * [devliusir.github.io](https://devliusir.github.io)
 * [爱前端](https://ifront.net)
+* [SpiritLHL's Python blog](https://spiritlhl.github.io/jupyter_notebook_blogs/)
